@@ -1,0 +1,2 @@
+EduVantage Online is a modern e-learning platform designed to provide accessible and engaging education for everyone. Built with clean HTML and CSS, the website features an intuitive layout with pages like Home, About Us, Courses, and Contact. The design prioritizes user experience, ensuring seamless navigation and information access. The responsive interface adapts to all devices, making it perfect for learners on the go.
+
